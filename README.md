@@ -9,7 +9,7 @@ possédant les propriétés suivantes:
 
 Par exemple, l'arbre représenté ci dessous est un **abre binaire de recherche**:
 
-![abr_exemple1](images/abr_exemple1.svg)
+![abr_exemple1](images/abr_parcours.jpeg)
 
 En programation informatique, un _arbre binaire_ peut etre représenter par:
 
